@@ -2,8 +2,6 @@
 
 **Open-source answer engine optimization (AEO) for retail sellers.** Find out where your product shows up when shoppers ask ChatGPT, Gemini, Claude, Perplexity, Amazon Rufus or Walmart Sparky, see how you rank against your competitors, and get the fixes and content that move you up.
 
-![Surfaced dashboard](<img width="477" height="797" alt="image" src="https://github.com/user-attachments/assets/beede84f-1481-415a-a993-c1599c6c3dfc" />
-)
 <img width="481" height="793" alt="image" src="https://github.com/user-attachments/assets/3c9ee0fc-95da-40c6-bdb5-936c4de2923c" />
 
 *Screenshot uses simulated data for a fictional brand.*
