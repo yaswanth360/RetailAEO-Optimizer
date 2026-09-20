@@ -1,0 +1,44 @@
+# Example product profile. The brand below is FICTIONAL. Copy this file and edit it.
+name: "Ridge 32oz Insulated Steel Water Bottle"
+brand: "Kestrel Outdoors"
+brand_aliases: ["Kestrel"]
+category: "insulated water bottles"
+description: "Double-wall vacuum insulated stainless steel bottle for hiking, gym, and commuting."
+url: "https://kestrel-outdoors.example/products/ridge-32"
+marketplace_ids:
+  amazon: "B0KESTREL32"
+  walmart: "5550123456"
+price: 34.99
+audience: ["hikers", "students", "office commuters"]
+use_cases: ["hiking", "gym workouts", "keeping water cold all day", "commuting"]
+features:
+  - "keeps drinks cold for 24 hours and hot for 12"
+  - "leak-proof lid tested for 10,000 open-close cycles"
+  - "fits most car cup holders"
+  - "18/8 food-grade stainless steel, BPA-free"
+attributes:
+  capacity: "32 oz"
+  material: "18/8 stainless steel"
+  color: "Slate, Moss, Sand"
+  warranty: "Lifetime limited"
+
+# Your CURRENT listing (the optimizer audits this).
+title: "Kestrel Ridge Water Bottle 32oz"
+bullets:
+  - "Keeps drinks cold"
+  - "Leak proof lid"
+  - "Stainless steel"
+listing_description: "A great bottle for everyday use."
+qa:
+  - q: "Is it dishwasher safe?"
+    a: "Top-rack safe for the lid; hand-wash the bottle body."
+rating: 4.4
+review_count: 212
+
+competitors:
+  - name: "Ridgeline"
+    domains: ["ridgeline.example"]
+  - name: "Summit & Co"
+    aliases: ["Summit and Co"]
+  - name: "Alpenglow"
+  - name: "TerraFlask"
