@@ -140,6 +140,3 @@ tests/          pytest suite
 - Video output is a silent text-card slideshow. Add voiceover, or plug in a generation service (`docs/EXTENDING.md`).
 - Recommendations are best-practice heuristics, not guarantees of ranking.
 
-## License
-
-MIT. See [LICENSE](LICENSE).
